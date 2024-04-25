@@ -70,6 +70,7 @@
                         <option value="Statistik & Probabilitas">Statistik & Probabilitas</option>
                         <option value="Jaringan Komputer">Jaringan Komputer</option>
                         <option value="User Interface & User Experience">User Interface & User Experience</option>
+                        <option value="Bahasa Inggris 1">Bahasa Inggris 1</option>
                     </select>
                 </div>
             </div>
